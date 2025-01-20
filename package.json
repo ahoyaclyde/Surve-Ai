@@ -1,0 +1,25 @@
+{
+  "name": "web3js",
+  "version": "1.0.0",
+  "description": " ABI implementations for storj , livepeer ",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Denso-Innovations/Surve.git"
+  },
+  "author": "Libera8",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Denso-Innovations/Surve/issues"
+  },
+  "homepage": "https://github.com/Denso-Innovations/Surve#readme",
+  "dependencies": {
+    "web3": "^0.20.6"
+  }
+}
