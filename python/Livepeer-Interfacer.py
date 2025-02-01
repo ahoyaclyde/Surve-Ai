@@ -11,6 +11,6 @@ res = Livepeer_Connect.playback.get(id="8185pgj6dix7e7nv")
 if res.playback_info is not None:
     # handle response
     print(res.playback_info)
-    print("ENd")
+    
 	
     pass
